@@ -1,6 +1,6 @@
 # feature :
-##### 1. Saved -> user can find which book the saved
-##### 2. Enroll -> which booked are enrolled 
+##### 1. Saved : user can find which book the saved
+##### 2. Enroll: which booked are enrolled 
 ##### 3. books :
                    1. Bestselling Books 
                    2. price off book
