@@ -34,3 +34,19 @@
  
    
 
+##### Search Option : search book or user
+
+##### profile : 
+                1. about user : name, pic, study, job, contact, email etc
+                2. follow : user can follow another user 
+                3. book published number & how many people are enrolled or read her/him book 
+                4. messaging option (future)
+                
+                
+##### book or audio or paper :
+                               1. user will find rating
+                               2. comment section : how the book was?
+                               4. how many people read or enroll the book
+                               
+                
+ 
